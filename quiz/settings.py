@@ -72,7 +72,6 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'quiz.wsgi.application'
 
 
 # Database
